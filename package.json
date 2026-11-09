@@ -1,0 +1,15 @@
+{
+  "name": "mouse-marca",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Aplicación web para guardar fotografías de mouse",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongodb": "^6.15.0",
+    "multer": "^2.0.2"
+  }
+}
